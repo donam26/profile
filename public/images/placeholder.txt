@@ -1,0 +1,9 @@
+Vui lòng thêm các hình ảnh sau vào thư mục này cho portfolio của bạn:
+
+1. profile-placeholder.jpg - Hình ảnh cá nhân tròn cho phần Hero (kích thước đề xuất: 500x500px)
+2. about-placeholder.jpg - Hình ảnh cho phần About (kích thước đề xuất: 800x600px)
+3. project1.jpg, project2.jpg, project3.jpg - Hình ảnh cho các dự án (kích thước đề xuất: 800x450px)
+4. logo.png - Logo cá nhân nếu có (kích thước đề xuất: 200x50px)
+
+Để hoạt động tốt nhất, các hình ảnh nên có tỷ lệ và kích thước phù hợp như đề xuất.
+Sau khi thêm hình ảnh, hãy cập nhật đường dẫn trong các component nếu cần thiết. 
